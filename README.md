@@ -1,6 +1,6 @@
 # AICleaningRobot
 
-Deep Q-Learning driven virtual cleaning robot agent.
+Deep Q-Learning driven virtual cleaning robot agent. More information in Cleaning Robot Assignment.pdf (file in repo).
 
 # How to run?
 
